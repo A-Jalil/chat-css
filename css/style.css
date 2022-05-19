@@ -480,7 +480,7 @@
     .simple-booking{
         width: 311px;
         height: 240px;
-        left: 32px;
+        margin-right: 10px;
         top: 633px;
     }
     .simple-booking h1{
@@ -562,9 +562,26 @@
         align-items: center;
         width: 311px;
         height: 240px;
-        left: 32px;
+        left: 20px;
+        margin-right: 10px;
         top: 633px;
         text-align: center;
+    }
+    .simple-booking h1{
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 600px;
+        font-size: 36px;
+        line-height: 47px;
+        color: #3E2753;
+    }
+    .simple-booking p{
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        color: #A39DA9;
     }
     .right-container{
         width: 510px;
